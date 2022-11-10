@@ -8,7 +8,7 @@ This package was created as a test to better understand package creation and pub
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package-test-calculator
 
 ```bash
-pip install -i https://test.pypi.org/simple/ package-test-calculator
+pip install package-test-calculator
 ```
 
 ## Usage
