@@ -14,7 +14,7 @@ setup(
     description="test package",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="insira o link",
+    url="https://github.com/VitorFran1337/package-test-calculator",
     package=find_packages(),
     python_requires='>=3.0',
 )
